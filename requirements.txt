@@ -4,7 +4,7 @@ gast==0.3.2
 get==2019.4.13
 grpcio==1.23.0
 gunicorn==20.0.4
-Jinja2==2.11.1
+Jinja2==2.11.3
 joblib==0.14.1
 msgpack==0.6.2
 plyer==1.4.2
